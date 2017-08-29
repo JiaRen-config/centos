@@ -1,4 +1,6 @@
 ## 服务器的redis是通过官网下载页面介绍安装的
+https://linoxide.com/storage/install-redis-server-centos-7/
+
 https://redis.io/download 是下载和安装介绍地址，目前配置和安装文件在
 用户根目录，即cd ~
 
